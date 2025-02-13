@@ -2,9 +2,9 @@
 #include <stdio.h>
 int main()
 {
-    int x;
+    double x;
     double area=0;
-    scanf("%d",&x);
+    scanf("%f",&x);
     printf("");
     area= (x*x)*3.14;
     printf("Area: %.2lf",area);
