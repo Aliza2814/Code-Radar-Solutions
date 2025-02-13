@@ -1,6 +1,6 @@
 // Your code here...
 #include <stdio.h>
-int main()
+void main()
 {
     int x;
     float area=0;
