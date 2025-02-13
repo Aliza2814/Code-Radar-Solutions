@@ -6,7 +6,7 @@ int main()
     double avg=0;
     scanf("%d %d %d", &x,&y,&z);
     printf("");
-    avg=(x+y+z)/3;
+    avg=(x+y+z)/3.0;
     printf("Average: %.2lf",avg);
     return 0;
 }
