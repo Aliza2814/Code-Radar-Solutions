@@ -6,7 +6,7 @@ int main()
     double area=0;
     scanf("%d",&x);
     printf("");
-    area= (x**)*3.14;
+    area= (x*x)*3.14;
     printf("Area: %.2lf",area);
     return 0;
 }
