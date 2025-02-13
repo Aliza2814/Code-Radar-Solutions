@@ -3,8 +3,8 @@
 int main()
 {
     int x;
-    scanf("%d %d",&x,&y);
-    if (x>y || x==y){
+    scanf("%d",&x);
+    if (x!>0){
         printf("True");
     }
     else{
