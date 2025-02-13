@@ -1,12 +1,12 @@
 // Your code here...
 #include <stdio.h>
-void main()
+int main()
 {
     int x;
     float area=0;
     scanf("%d",&x);
     printf("");
-    area= (x*x)3.14;
+    area= x*x*3.14;
     printf("Area: %.2f",area);
     return 0;
 }
